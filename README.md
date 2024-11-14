@@ -6,7 +6,7 @@
 
 🎓 Estudando Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
 
-🔎 Também sou curioso sobre a integração da Neurociência com Design. E também machine Learning :).
+🔎 Também sou curioso sobre a junção do UI/UX Design com neurociência. :)
 
 ✒️ Eu gosto de no meu tempo livre praticar esportes, ler e me desafiar resolvendo problemas fora do cotidiano.
 
